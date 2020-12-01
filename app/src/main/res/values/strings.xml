@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ForegroundService</string>
+    <string name="foreground_notification">Foreground Notification</string>
+    <string name="notification_title">Notification Title</string>
+    <string name="our_application_is_running">Our application is running</string>
+    <string name="service_channel">Service Channel</string>
+    <string name="example_service">Example Service</string>
+    <string name="title_activity_counter">CounterActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="deactivate_counter">Deactivate Counter</string>
+    <string name="fall_service_channel">Fall Service Channel</string>
+    <string name="count_down_channel">Count Down Channel</string>
+    <string name="deactivate">D E A C T I V A T E</string>
+    <string name="arkanhelp_running">ARKANHELP RUNNING</string>
+    <string name="arkanhelp">A R K A N H E L P</string>
+    <string name="service_running">Service Running</string>
+    <string name="arkanhelp_about_to_send_messages">A R K A N H E L P is about to send messages</string>
+    <string name="deactivate_messages">DEACTIVATE Messages</string>
+</resources>
